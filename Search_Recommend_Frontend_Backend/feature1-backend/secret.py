@@ -1,3 +1,3 @@
 def password():
-  password="kxzhzsngioxsxoqu"
+  password="write ur own"
   return password
