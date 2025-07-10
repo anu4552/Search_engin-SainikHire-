@@ -9,7 +9,7 @@ import threading
 
 password=password()
 # Email 
-SENDER_EMAIL = "shristikumarisingh125@gmail.com"
+SENDER_EMAIL = "example@gmail.com"
 APP_PASSWORD = password
 
 client = MongoClient("mongodb://localhost:27017/")
