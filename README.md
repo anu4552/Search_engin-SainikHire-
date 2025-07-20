@@ -68,3 +68,8 @@ Fetching the job details
   <img src="https://raw.githubusercontent.com/SHRISTI-125/SainikHire/main/output/img3.png" width="400"/>
   <img src="https://raw.githubusercontent.com/SHRISTI-125/SainikHire/main/output/img11.jpg" width="400"/>
 </p>
+
+# 🙋‍♀️ Author
+Developed with deep respect and gratitude for the brave soldiers of our nation 🇮🇳🪖
+
+[Shristi Kumari](https://github.com/SHRISTI-125) | [Isha Anand](https://github.com/dev-Isha-Anand) | [Anu Kumari](https://github.com/anu4552)
